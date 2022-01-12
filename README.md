@@ -1,5 +1,5 @@
 # SelfDrivingCars
-Obstacle avoidance using model predictive control of a pacjeka magic car model
+Obstacle avoidance using model predictive control of a 6 state bicycle model using the full pacejka tire model ("magic formula").
 
 Final group project ROB535
 
