@@ -1,3 +1,8 @@
+% Creates a plot of the simulation outputs (track, reference trajectory, simulated trajectory, obstacles)
+% Additionally creates an animation video of the simulation if video = 1
+% Inputs - None - requires files saved from simulation.m
+% Outputs - None - produces simulation plot and optional animation video.  
+
 clear
 close all
 clc
